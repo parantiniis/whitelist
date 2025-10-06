@@ -2,3 +2,4 @@
 ! Title: Whitelist filter
 ||sitb.id^
 ||mediafire.com^
+||bjbcorp.bankbjb.co.id
