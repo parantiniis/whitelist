@@ -7,3 +7,4 @@
 ||web.whatsapp.com^
 ||ruijiecloud.net^
 ||rj.link
+||ruijienetworks.com
