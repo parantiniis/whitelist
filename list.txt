@@ -11,3 +11,4 @@
 ||taplink.cc
 ||taplink.at
 ||taplink.st
+||whatsapp.com
