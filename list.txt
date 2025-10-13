@@ -12,4 +12,4 @@
 ||taplink.at
 ||taplink.st
 ||whatsapp.com
-||shinigami.asia
+@@||shinigami.asia
