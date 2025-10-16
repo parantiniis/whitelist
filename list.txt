@@ -13,3 +13,4 @@
 ||taplink.st
 ||whatsapp.com
 ||googleapis.com
+||pajak.go.id^
