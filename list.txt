@@ -14,3 +14,4 @@
 ||whatsapp.com
 ||googleapis.com
 ||pajak.go.id^
+||googlevideo.com
