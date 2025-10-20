@@ -17,3 +17,4 @@
 ||tiktok.com
 ||tokopedia.com
 ||tokopedia-static.net
+||byteoversea.com
