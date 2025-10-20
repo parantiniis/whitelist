@@ -15,3 +15,4 @@
 ||googleapis.com
 ||pajak.go.id^
 ||tiktok.com
+||tokopedia.com
