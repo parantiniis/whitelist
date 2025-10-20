@@ -16,3 +16,4 @@
 ||pajak.go.id^
 ||tiktok.com
 ||tokopedia.com
+||tokopedia-static.net
