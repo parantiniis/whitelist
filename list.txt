@@ -18,3 +18,5 @@
 ||tokopedia.com
 ||tokopedia-static.net
 ||byteoversea.com
+||bjbcorp.bankbjb.co.id
+||bankbjb.co.id
